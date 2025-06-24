@@ -21,3 +21,5 @@ _book
 *.pdf
 
 # End of https://www.toptal.com/developers/gitignore/api/gitbook
+
+.DS_Store
